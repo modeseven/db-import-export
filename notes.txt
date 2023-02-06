@@ -1,0 +1,3 @@
+sam local invoke ExportAllFunction -e events/myevent.json
+sam local invoke DeleteAllFunction -e events/myevent.json
+sam local invoke ImportAllFunction -e events/myevent.json

@@ -1,0 +1,8 @@
+{
+  "table": "test-table",
+  "data": [
+    { "key": "Mike2", "test": "wtf 2" },
+    { "key": "Dont", "test": "thisis it" },
+    { "key": "NEW", "test": "how does this look?t" }
+  ]
+}
